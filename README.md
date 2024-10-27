@@ -7,7 +7,7 @@ This Diwali wishing card will feature vibrant colors and traditional motifs. The
 
 
 
-#How It Works
+#Technology Used
 
 HTML Structure: The card contains a heading, a paragraph for the message, and decorative elements representing diyas.
 CSS Styling: The card has a light background, rounded corners, and a shadow for depth. Each diya is styled to look like a lamp with a flame.
